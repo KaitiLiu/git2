@@ -1,6 +1,6 @@
 git branch branch2
 git checkout branch2
-touch file04
-git add file04
-git commit -m "file04"
-git checkout master
+touch file4
+git add file4
+git commit -m "file4"
+git checkout main
