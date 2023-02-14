@@ -1,2 +1,2 @@
 git checkout branch2
-git stash
+git stash pop
