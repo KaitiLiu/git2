@@ -1,2 +1,2 @@
 git checkout master
-git merge branch01
+git merge branch1
