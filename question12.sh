@@ -1,2 +1,3 @@
 git checkout branch2
-git commit -am "question12"
+git add .
+git commit -m "question12"
