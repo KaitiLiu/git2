@@ -3,4 +3,6 @@ git checkout branch2
 touch file4
 git add file4
 git commit -m "file4"
+echo "Hello">file4
+git stash 
 git checkout main
