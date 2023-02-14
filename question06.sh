@@ -1,1 +1,1 @@
-git add .
+git commit -am "allfile"
